@@ -8,6 +8,10 @@ This is the introduction paragraph
 
 ## purpose
 
+This is the purpose text paragraph for testing purpose.
+
 ## Deployment
+
+This is the deployment paragraph text stuff.
 
 ## something else
