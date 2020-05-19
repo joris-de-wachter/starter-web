@@ -1,7 +1,9 @@
-#starter web project
+# starter web project
 
-##Introduction
+## Introduction
 
-##purpose
+## purpose
 
-##something else
+## Deployment
+
+## something else
