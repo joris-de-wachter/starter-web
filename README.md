@@ -1,6 +1,6 @@
 # starter web project
 
-Adding line for rebasing example
+Adding line for rebasing example, more changes from myfeatured branch too.
 This is just some dummy text to thest this out
 
 ## Introduction
