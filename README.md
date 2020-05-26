@@ -21,4 +21,4 @@ please do something else
 
 ### Copyright
 
-copyright 2020
+copyright 2020. all rights reserved.
